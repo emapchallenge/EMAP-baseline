@@ -34,7 +34,7 @@ For related work focusing on predicting heart rate and skin conductance response
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-repo-name>.git
+   git clone https://github.com/emapchallenge/baseline-results.git
    ```
 2. Navigate to the directory:  
    ```bash

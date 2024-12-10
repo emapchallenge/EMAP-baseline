@@ -22,11 +22,12 @@ For related work focusing on predicting heart rate and skin conductance response
 
 ---
 
-## Contents  
+## Contents (Each code performs)
 
-- **Baseline Results Scripts:** Codes to generate baseline results for both classification and regression predictions.  
-- **Dataset Processing Code:** Tools/scripts to preprocess and prepare the EMAP dataset for model evaluation.  
+- **Dataset Processing:** Preprocess and prepare the EMAP dataset for model evaluation.  
+- **Baseline Results Generation:** Generate baseline results for classification or regression predictions.  
 - **Model References:** Implementation for baseline comparison tasks related to arousal classification and regression.  
+- **Feature Selection and Model Saving:** Save models before and after feature selection and save the results of selected features along with their threshold values.
 
 ---
 

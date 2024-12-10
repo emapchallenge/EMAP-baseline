@@ -34,11 +34,11 @@ For related work focusing on predicting heart rate and skin conductance response
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/emapchallenge/baseline-results.git
+   git clone https://github.com/emapchallenge/EMAP-baseline.git
    ```
 2. Navigate to the directory:  
    ```bash
-   cd EMAP-Baseline-Results
+   cd EMAP-baseline-main
    ```
 3. Install requited dependencies:  
    ```bash
@@ -50,7 +50,7 @@ For related work focusing on predicting heart rate and skin conductance response
 To run the baseline arousal regression script, execute the following:  
 
 ```bash
-python arousal_regression_baseline.py
+python arousal_regression.py
 ```
 
 ## Acknowledgments  
